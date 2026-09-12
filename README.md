@@ -301,15 +301,6 @@ Smart-Hospital-Network-Project/
 - Integrate a dedicated firewall and IDS/IPS at the network edge
 - Deploy and evaluate performance in a real hospital environment
 
----
-
-## 👥 Team
-
-| Name | Student ID | Role |
-|---|---|---|
-| **Sultan Mahmud Rasel** | 241-15-521 | Project Lead & Network Implementation Lead |
-| **Md. Foridul Islam** | 241-15-429 | Network Design, IP Configuration & Documentation |
-| **Arpita Kundu** | 241-15-143 | Network Implementation, Testing & Troubleshooting |
 
 ---
 
